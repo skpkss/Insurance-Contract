@@ -61,11 +61,5 @@ The `claimCollateralProtection` function allows the owner to claim collateral pr
 
 If the `coveragePercentage` is set to 100, the user can claim 100% of their collateral. Otherwise, the contract calculates the protected amount based on the specified coverage percentage.
 
-## Testing
-
-Before deploying the contract to a production network, it's recommended to test it thoroughly on a testnet.
-
-## License
-
-This contract is released under the MIT License.
-
+## Contribution
+This code is contributed by Saurabh Kaplas.
