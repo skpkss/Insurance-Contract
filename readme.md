@@ -8,6 +8,9 @@ The `CryptoWalletInsurance` contract allows users to purchase insurance for thei
 - Users pay a premium amount to the contract.
 - If certain conditions are met, users can claim insurance.
 
+## Code Walkthrough
+https://www.loom.com/share/835f205b77884f3995e6483f6bd624a2?sid=269ab23d-1087-4b61-b48d-cb4ba1379197
+
 ## Contract Details
 
 - `owner`: The address of the owner who deployed the contract.
